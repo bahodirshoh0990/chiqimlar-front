@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oddiy HTML Loyiha</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #555;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Salom, bu mening birinchi HTML sahifam!</h1>
+</header>
+
+<main>
+    <h2>HTML va CSS bilan ishlash</h2>
+    <p>Bu oddiy HTML sahifasi, unda sarlavha, matn va rasm mavjud. Ushbu loyiha yordamida HTML va CSS kodlarini yozish o'rganilmoqda.</p>
+    <img src="https://via.placeholder.com/800x400" alt="Rasm misol">
+</main>
+
+</body>
+</html>
